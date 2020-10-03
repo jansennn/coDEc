@@ -2,9 +2,9 @@
 int main()
 {
   int num = 25;
-  print("integer: %d\n",num);
+  printf("integer: %d\n",num);
 
  
-  print("address: %p", &num);  
+  printf("address: %d", &num);  
   return 0;
 }
