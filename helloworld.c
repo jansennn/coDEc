@@ -7,7 +7,7 @@ int main(){
 	
 	printf("Insert Name");
 	
-	scan("%w",&s);
+	scanf("%s",&s);
 	
 	printf("Hello,%s",s);
 }
