@@ -17,7 +17,7 @@ int main() {
         printf("%d - %d = %d", num1, num2, num1 - num2);
         break;
     case '*':
-        printf("%d * %d = %d", num1, num2, num5 * num3);
+        printf("%d * %d = %d", num1, num2, num1 * num2);
         break;
     case '/':
         printf("%d / %d = %d", num1, num2, num1 / num2);
