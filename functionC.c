@@ -2,7 +2,7 @@
 
 int main()
 {
-    char string[];
+    char string[100];
     
 	
 	
